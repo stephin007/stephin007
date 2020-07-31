@@ -3,7 +3,7 @@
 ## I am a Customer Success Intern :bust_in_silhouette: with some knowledge of Coding :computer:
 
 - :office: I am currently working Civil Machines Technologies Pvt. Ltd. 
-- :book: Currently leaning React JS, Javascript
+- :book: Currently learning React JS, Javascript
 - :raising_hand_man: Always ready to adapt with situations.
 
 :house: [Portfolio] **|**
