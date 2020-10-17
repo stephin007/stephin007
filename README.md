@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephin007" alt="stephin007" /> </p>
 
-- 🔭 I’m currently working on [InstagramClone-FE](https://github.com/101Loop/InstagramClone-FE)
+- 🔭 I’m currently working on [Github Finder](https://github.com/stephin007/githubfinder)
 
-- 🌱 I’m currently learning **ReactJS, MongoDB, Express, Node**
+- 🌱 I’m currently learning **ReactJS, MongoDB, Express, Node, Firebase**
 
 - 👨‍💻 All of my projects are available at [stephinreji.me](stephinreji.me)
 
