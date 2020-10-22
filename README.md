@@ -23,3 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephin007)](https://github.com/stephin007/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephin007&show_icons=true&count_private=true&theme=tokyonight" alt="stephin007" /></p>
+
+[![Stephin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stephin007)](https://github.com/stephin007/github-readme-stats)
