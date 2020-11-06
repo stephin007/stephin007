@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm Stephin Reji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/reji_stephin">
+  <img align="left" alt="Stephin Reji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/stephinreji/">
+  <img align="left" alt="Stephin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/https://t.me/step_hin">
+  <img align="left" alt="Stephin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/the_spectacled_one/">
+  <img align="left" alt="Stephin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://dev.to/stephin007">
+  <img align="left" alt="Stephin's Dev.to Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dev-dot-to.svg" />
+</a> <br/>  
+<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephin007" alt="stephin007" /> </p>
+Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer 🚀 from India, currently, working as a customer success manager at [CMT](https://civilmachines.com) Beside's programming, I enjoy making small user friendly PWAs and also yes i love to eat :0.
 
-- 🔭 I’m currently working on [Contact Keeper](https://github.com/stephin007/contactKeeper)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="320" />
 
-- 🌱 I’m currently learning **ReactJS, MongoDB, Express, Node, Firebase**
+**Talking about Personal Stuffs:**
 
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning React and Material UI; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: **mail@stephinreji.me**
 - 👨‍💻 All of my projects are available at [stephinreji.me](stephinreji.me)
-
-- 📫 How to reach me **mail@stephinreji.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +42,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephin007)](https://github.com/stephin007/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephin007&show_icons=true&count_private=true&theme=tokyonight" alt="stephin007" /></p>
-
+!
 [![Stephin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stephin007)](https://github.com/stephin007/github-readme-stats)
