@@ -16,6 +16,7 @@
 </a>  
 <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/> <br />
 
+
 Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer 🚀 from India, currently, working as a customer success manager at [CMT](https://civilmachines.com), I also enjoy making small user friendly PWAs and beside's programming, i love to eat :0.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="320" />
@@ -42,3 +43,4 @@ Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer
 </details>
 
 
+![](https://hit.yhype.halp.im/github/profile?user_id=54792119)
