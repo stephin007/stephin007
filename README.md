@@ -43,4 +43,4 @@ Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer
 </details>
 
 
-![](https://hit.yhype.halp.im/github/profile?user_id=54792119)
+![](https://hit.yhype.me/github/profile?user_id=54792119)
