@@ -14,7 +14,7 @@
 </a>
 <a href="https://dev.to/stephin007">
   <img align="left" alt="Stephin's Dev.to Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dev-dot-to.svg" />
-</a>  
+</a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/> <br />
 
 Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer
