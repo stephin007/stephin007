@@ -47,6 +47,7 @@ and beside's programming, i love to eat :0.
 <details>
 <summary>📈 Other Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephin007&theme=tokyonight" width="400" height="300"/>
+  <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 75px> </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephin007&theme=tokyonight" width="1000" height="300"/>
 
 </details>
