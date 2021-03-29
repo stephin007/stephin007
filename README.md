@@ -1,37 +1,47 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 
-<a href="https://twitter.com/reji_stephin">
-  <img align="left" alt="Stephin Reji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/stephinreji/">
-  <img align="left" alt="Stephin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/step_hin">
-  <img align="left" alt="Stephin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/the_spectacled_one/">
-  <img align="left" alt="Stephin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://dev.to/stephin007">
-  <img align="left" alt="Stephin's Dev.to Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/dev-dot-to.svg" />
-</a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/> <br />
+<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=stephin007.stephin007)
+
 
 Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer
-🚀 from India, currently, working as a customer success manager at
-[CMT](https://civilmachines.com), I also enjoy making small user friendly PWAs
+🚀 from India, currently, working as a Customer Success Analyst at
+[Certa](https://getcerta.com), I also enjoy making small user friendly PWAs
 and beside's programming, i love to eat :0.
+
+<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align = 'center'>
+<a href = 'https://www.linkedin.com/in/stephinreji'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/reji_stephin'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://stephinreji.me'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/stephin007'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+</p>
+</div>
+
+<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
+<p align = 'center'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<br>
+</p>
+<div align='center'>
+<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+</div>
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React and Material UI;
+- 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: **mail@stephinreji.me**
 - 👨‍💻 All of my projects are available at
   [stephinreji.me](https://stephinreji.me)
 
-<summary>🏆My Github Stats</summary>
+<h2>🏆My Github Stats</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stephin007&show_icons=true&count_private=true&theme=tokyonight" />
 
 <details>
