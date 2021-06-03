@@ -28,9 +28,6 @@ and beside's programming, i love to eat :0.
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <br>
 </p>
-<div align='center'>
-<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
-</div>
 
 **Talking about Personal Stuffs:**
 
