@@ -4,9 +4,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stephin007.stephin007)
 
 
-Hi, I'm [Stephin Reji](https://stephinreji.me/), a passionate frontend developer
-🚀 from India, currently, working as a Customer Success Analyst at
-[Certa](https://getcerta.com), I also enjoy making small user friendly PWAs
+Hi, I'm [Stephin Reji](https://stephinreji.me/), a budding frontend developer
+🚀 from India, currently, working as a Integration Lead at
+[Certa](https://getcerta.com)
 and beside's programming, i love to eat :0.
 
 <h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
