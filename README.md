@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=stephin007)
 
 
-Hi, I'm [Stephin Reji](https://stephinreji.me/), a budding frontend developer
+Hi, I'm [Stephin Reji](https://stephinreji.com/), a budding frontend developer
 🚀 from India, currently, working as a Integration Lead at
 [Certa](https://getcerta.com)
 and beside's programming, i love to eat :0.
@@ -30,9 +30,7 @@ and beside's programming, i love to eat :0.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: **mail@stephinreji.me**
-- 👨‍💻 All of my projects are available at
-  [stephinreji.me](https://stephinreji.me)
+- 📫 How to reach me: **stephinreji123@gmail.com**
 
 <h2>🏆My Github Stats</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stephin007&show_icons=true&count_private=true&theme=tokyonight" />
