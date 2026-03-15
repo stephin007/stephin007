@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:1a1a3e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Stephin+Reji+%F0%9F%91%8B;Product+Manager+%7C+Builder;B2B+SaaS+%C2%B7+AI+%C2%B7+Fintech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Stephin+Reji+%F0%9F%91%8B;Platform+PM+%7C+Core+%26+AI;B2B+SaaS+%C2%B7+AI+%C2%B7+Fintech" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## ⚡ The quick version
 
 ```
-Role        →  Integration Lead @ Certa  (prev. Frontend Engineer)
+Role        →  Platform PM (Core & AI) @ Certa  (prev. Frontend Engineer)
 Focus       →  B2B SaaS · AI/ML Products · Fintech & Compliance
 Superpower  →  I came from engineering — I speak both languages fluently
 Now         →  Building an open-source, AI-native signal aggregator for PMs
@@ -35,7 +35,7 @@ Now         →  Building an open-source, AI-native signal aggregator for PMs
 
 I'm a **builder-first product manager** with a frontend engineering background. That means I don't just write specs — I prototype, I read PRs, and I can actually feel the pain when a system is over-engineered.
 
-At **Certa**, I work at the intersection of enterprise workflow automation, compliance, and integrations — one of the most technically complex surfaces a PM can own.
+At **Certa**, I own the core platform and AI surface — working at the intersection of enterprise workflow automation, compliance, and integrations — one of the most technically complex surfaces a PM can own.
 
 ```
 Things I care about deeply:
